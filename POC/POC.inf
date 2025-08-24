@@ -50,7 +50,7 @@ Characteristics=0x40000
 ; This must be a random, unique value.
 ; FILTER_UNIQUE_NAME in filter.h must match this GUID identically.
 ; Both should have {curly braces}.
-NetCfgInstanceId="{99c0e3df-1aca-4228-be86-f7b067f77b84}"
+NetCfgInstanceId="{524f194a-2f4c-4462-956a-0f3c48f600a0}"
 
 Copyfiles = POC.copyfiles.sys
 

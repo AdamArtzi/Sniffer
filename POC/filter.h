@@ -52,7 +52,7 @@ extern FILTER_LOCK         FilterListLock;
 extern LIST_ENTRY          FilterModuleList;
 
 #define FILTER_FRIENDLY_NAME        L"POC NDIS LightWeight Filter"
-#define FILTER_UNIQUE_NAME          L"{99c0e3df-1aca-4228-be86-f7b067f77b84}" //unique name, quid name
+#define FILTER_UNIQUE_NAME          L"{524f194a-2f4c-4462-956a-0f3c48f600a0}" //unique name, quid name
 #define FILTER_SERVICE_NAME         L"POC"
 
 //
